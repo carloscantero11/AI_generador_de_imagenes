@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import { ReactNode } from "react";
 import ResponsiveNav from "./navbar/ResponsiveNav";
 
 // Tipo de las props que acepta el layout (debe recibir contenido hijo)

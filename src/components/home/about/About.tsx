@@ -1,5 +1,3 @@
-import React from "react";
-
 const About = () => {
   return (
     <section id="sobreNosotros" className="w-full min-h-screen px-5 py-20 bg-gradient-to-l from-[#fce3ff] to-[#cde9f5]">

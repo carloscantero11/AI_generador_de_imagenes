@@ -1,7 +1,6 @@
 // Componente visual de carga para imágenes
 
 import { Image } from "lucide-react";
-import React from "react";
 
 const LoadingImage = () => {
   return (

@@ -1,4 +1,3 @@
-import React from "react";
 import GalleryCard from "./galleryCard";
 import { galleryImage } from "../../../../data/dataHome";
 

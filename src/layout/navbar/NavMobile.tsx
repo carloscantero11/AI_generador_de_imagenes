@@ -1,4 +1,3 @@
-import React from "react";
 import { navLinks } from "../../../data/dataHome";
 import { Link } from "react-router-dom";
 import { CircleX } from "lucide-react";

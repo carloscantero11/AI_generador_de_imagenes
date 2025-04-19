@@ -1,7 +1,5 @@
 // Botón para descargar una imagen con tooltip del tamaño
-
 import { ImageDownIcon } from "lucide-react";
-import React from "react";
 
 interface Props {
   imageUrl: string;      // URL de la imagen a descargar

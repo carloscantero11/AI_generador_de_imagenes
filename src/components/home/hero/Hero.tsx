@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import ButtonUI from "../../ui/ButtonUI";
 import { generateImage } from "../../../api/generateImage";
 import ButtonDownload from "../../ui/ButtonDownload";

@@ -1,5 +1,3 @@
-import React from "react";
-
 interface GalleryCardProps {
   src: string;
   alt: string;

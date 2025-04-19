@@ -1,7 +1,4 @@
 // Botón de "Crear" con estilos y evento onClick
-
-import React from "react";
-
 type ButtonProps = {
   onClick?: () => void; // Función a ejecutar al hacer clic
 };

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import NavMobile from "./NavMobile";
 import Nav from "./Nav";
 
