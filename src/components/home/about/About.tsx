@@ -1,16 +1,21 @@
+import { aboutImage } from "../../../../data/dataHome";
+
 const About = () => {
   return (
     <section id="sobreNosotros" className="w-full min-h-screen px-5 py-20 bg-gradient-to-l from-[#fce3ff] to-[#cde9f5]">
       <div className="w-[90%] mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
         {/* Imagen */}
         <div className="order-2 md:order-1">
-          <img
-            src="../../../../public/images/about.jpg"
-            alt="abut"
+          {aboutImage.map((img, i) => (
+            <img
+            key={i}
+            src={img.image}
             width={400}
             height={400}
             className="rounded-4xl "
           />
+          ))}
+          
         </div>
 
         {/* Contenido */}

@@ -89,3 +89,10 @@ export const galleryImage = [
     image:"images/g13.jpg",
   },
 ]
+
+export const aboutImage = [
+  {
+    id: 1,
+  image: "images/about.jpg",
+  },
+]

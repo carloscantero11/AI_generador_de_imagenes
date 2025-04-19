@@ -26,12 +26,11 @@
     background: #ffaaff21;
     background: linear-gradient(
       90deg,
-      rgba(135, 173, 255, 0.5) 0%,
-      rgba(222, 152, 255, 0.5)50%,
-      rgba(250, 162, 246, 0.5) 100%
+      rgb(196, 214, 255) 0%,
+      rgb(232, 194, 250)50%,
+      rgb(255, 205, 253) 100%
     );
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+
   }
 
   /* Background de la barra de navegación móvil con desenfoque */
@@ -67,3 +66,17 @@
     animation: glow 2s ease-in-out infinite;
   }
 }
+
+
+
+/* .nav-blur {
+    background: #ffaaff21;
+    background: linear-gradient(
+      90deg,
+      rgba(135, 173, 255, 0.5) 0%,
+      rgba(222, 152, 255, 0.5)50%,
+      rgba(250, 162, 246, 0.5) 100%
+    );
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }*/
