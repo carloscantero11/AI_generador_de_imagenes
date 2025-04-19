@@ -52,3 +52,6 @@ export default tseslint.config({
   },
 })
 ```
+
+![iaImagenes](https://github.com/user-attachments/assets/5e7e42bf-635c-4bdc-8945-168b9427de76)
+
