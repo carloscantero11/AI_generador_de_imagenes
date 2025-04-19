@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import ResponsiveNav from "./navbar/ResponsiveNav";
+import Footer from "./footer/footer";
 
 // Tipo de las props que acepta el layout (debe recibir contenido hijo)
 type LayoutProps = {
@@ -12,6 +13,7 @@ export default function Layout({ children }: LayoutProps) {
     <div className="bg-principal">
       <ResponsiveNav />
       <main> {children} </main>
+      <Footer/>
     </div>
   );
 }
