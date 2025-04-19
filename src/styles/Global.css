@@ -38,11 +38,10 @@
     background: #f7ebf721;
     background: linear-gradient(
       90deg,
-      rgba(242, 203, 242, 0.82) 0%,
-      rgba(183, 232, 237, 0.82) 100%
+      rgba(242, 203, 242, 1) 0%,
+      rgba(183, 232, 237, 1) 100%
     );
-    backdrop-filter: blur(7px);
-    -webkit-backdrop-filter: blur(10px);
+    
   }
 
   /* Animación que hace que el ícono tenga un efecto de brillo
@@ -79,4 +78,16 @@
     );
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
+
+
+    .nav-blur-mobile {
+    background: #f7ebf721;
+    background: linear-gradient(
+      90deg,
+      rgba(242, 203, 242, 0.82) 0%,
+      rgba(183, 232, 237, 0.82) 100%
+    );
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(10px);
+  }
   }*/
