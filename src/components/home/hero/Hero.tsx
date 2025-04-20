@@ -29,6 +29,7 @@ const Hero = () => {
     try {
       const url = await generateImage(prompt);
       setImagenUrl(url);
+      setPrompt(""); // ✅ " "
 
       // Calcula el tamaño de la imagen descargada
       const response = await fetch(url);
