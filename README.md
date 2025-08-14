@@ -1,9 +1,21 @@
 # 📌 Generador de Imágenes IA 🎨
 
-Este proyecto permite generar imágenes realistas a partir de una descripción de texto, gracias al poder de la inteligencia artificial. Solo escribe lo que imaginas... ¡y mira cómo se convierte en imagen!
+## 📑 Tabla de Contenido
+- [Descripción](#-descripción)
+- [Enlace en Línea](#-enlace-en-línea)
+- [Características](#-características)
+- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+- [Instalación y Uso](#ℹ️-instalación-y-uso)
+- [Imágenes](#%EF%B8%8F-imágenes)
+- [Uso](#-uso)
+- [Problemas](#problemas)
+- [Licencia](#-licencia)
+- [Autor](#%EF%B8%8F-autor)
 
 ## 📜 Descripción
-Una aplicación web donde puedes escribir una idea y obtener una imagen generada por IA que represente lo que pensaste. Fácil de usar y visualmente atractiva, perfecta para quienes buscan inspiración visual.
+Este proyecto permite generar imágenes realistas a partir de una descripción de texto, gracias al poder de la inteligencia artificial. Solo escribe lo que imaginas... ¡y mira cómo se convierte en imagen!
+
+Es una aplicación web donde puedes escribir una idea y obtener una imagen generada por IA que represente lo que pensaste. Fácil de usar y visualmente atractiva, perfecta para quienes buscan inspiración visual.
 
 ## 🌐 Enlace en Línea
 
