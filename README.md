@@ -19,7 +19,7 @@ Es una aplicación web donde puedes escribir una idea y obtener una imagen gener
 
 ## 🌐 Enlace en Línea
 
-🔗 [Click aquí para ver el proyecto](ai-generador-de-imagenes.vercel.app)
+🔗 [Click aquí para ver el proyecto](https://ai-generador-de-imagenes.vercel.app/)
 
 ## 🎯 Características
 
